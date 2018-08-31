@@ -1,0 +1,9 @@
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core\obj\Debug\netstandard2.0\Consul.Core.csproj.CoreCompileInputs.cache
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core\obj\Debug\netstandard2.0\Consul.Core.AssemblyInfoInputs.cache
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core\obj\Debug\netstandard2.0\Consul.Core.AssemblyInfo.cs
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core\obj\Debug\netstandard2.0\Consul.Core.csprojAssemblyReference.cache
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core\bin\Debug\netstandard2.0\Consul.Core.deps.json
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core\bin\Debug\netstandard2.0\Consul.Core.dll
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core\bin\Debug\netstandard2.0\Consul.Core.pdb
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core\obj\Debug\netstandard2.0\Consul.Core.dll
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core\obj\Debug\netstandard2.0\Consul.Core.pdb
