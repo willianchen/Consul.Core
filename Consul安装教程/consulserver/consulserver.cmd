@@ -1,0 +1,1 @@
+consul agent -server -data-dir=/tmp/consul -node=192.168.129.203 -bind=192.168.129.203   -client=192.168.129.203 -datacenter=dc1 -join 192.168.129.230

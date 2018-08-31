@@ -1,0 +1,15 @@
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core.Client\obj\Debug\netcoreapp2.1\Consul.Core.Client.csprojAssemblyReference.cache
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core.Client\obj\Debug\netcoreapp2.1\Consul.Core.Client.csproj.CoreCompileInputs.cache
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core.Client\obj\Debug\netcoreapp2.1\Consul.Core.Client.AssemblyInfoInputs.cache
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core.Client\obj\Debug\netcoreapp2.1\Consul.Core.Client.AssemblyInfo.cs
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core.Client\bin\Debug\netcoreapp2.1\appsettings.json
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core.Client\bin\Debug\netcoreapp2.1\Consul.Core.Client.deps.json
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core.Client\bin\Debug\netcoreapp2.1\Consul.Core.Client.runtimeconfig.json
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core.Client\bin\Debug\netcoreapp2.1\Consul.Core.Client.runtimeconfig.dev.json
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core.Client\bin\Debug\netcoreapp2.1\Consul.Core.Client.dll
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core.Client\bin\Debug\netcoreapp2.1\Consul.Core.Client.pdb
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core.Client\bin\Debug\netcoreapp2.1\Consul.Core.dll
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core.Client\bin\Debug\netcoreapp2.1\Consul.Core.pdb
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core.Client\obj\Debug\netcoreapp2.1\Consul.Core.Client.csproj.CopyComplete
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core.Client\obj\Debug\netcoreapp2.1\Consul.Core.Client.dll
+D:\GitWorkSpace\GitHub\Consul.Core\Consul.Core.Client\obj\Debug\netcoreapp2.1\Consul.Core.Client.pdb
